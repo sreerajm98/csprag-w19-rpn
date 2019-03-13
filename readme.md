@@ -1,4 +1,3 @@
-[![Build Status](https://travis-ci.org/sreerajm98/csprag-w19-rpn.svg?branch=master)](https://travis-ci.org/sreerajm98/csprag-w19-rpn)
 
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="99" height="20">
